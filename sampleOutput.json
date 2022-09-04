@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Maegan Vazquez, CNN",
+        "title": "Biden and Putin set to hold call at critical moment of escalating tensions over Ukraine - CNN",
+        "description": "President Joe Biden and Russian President Vladimir Putin spoke for about two hours over a secure video call on Tuesday in what had been expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine.",
+        "url": "https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211207131624-03-biden-putin-video-call-1207-super-tease.jpg",
+        "publishedAt": "2021-12-07T18:28:00Z",
+        "content": "Washington (CNN)President Joe Biden and Russian President Vladimir Putin spoke for about two hours over a secure video call on Tuesday in what had been expected to be a highly consequential meeting f… [+6059 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Rick Noack, Sarah Dadouch",
+        "title": "France detains suspect in murder of Jamal Khashoggi at Paris airport - The Washington Post",
+        "description": "Khaled al-Otaibi has been identified as part of the team believed to behind the columnist’s murder at the Saudi consulate.",
+        "url": "https://www.washingtonpost.com/world/middle_east/khashoggi-suspect-arrest-france/2021/12/07/5c48151a-5773-11ec-8396-5552bef55c3c_story.html",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FT7DTTHFUEI6XJA6ZBCCYIJ7VA.jpg&w=1440",
+        "publishedAt": "2021-12-07T18:26:37Z",
+        "content": "French authorities detained Khalid Aedh al-Otaibi on an outstanding Turkish arrest warrant, the source said, as Otaibi prepared to travel to Saudi Arabia from Charles de Gaulle Airport in Paris.\r\nPro… [+3307 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Cameron Faulkner",
+        "title": "Scuf’s Reflex for PS5 is a pricier, customizable take on the DualSense - The Verge",
+        "description": "Gaming accessory brand Scuf has announced the Reflex lineup of controllers for PS5 and PC. They all share a look and several features in common with the DualSense but allow for more customization.",
+        "url": "https://www.theverge.com/2021/12/7/22814531/scuf-reflex-pro-fps-dualsense-ps5-pc-sony-wireless-controller-price-release-date-features",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/fQM_VV1BgIq34LQsL9oadcd6rM4=/0x532:7429x4422/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23060616/reflexhero.jpg",
+        "publishedAt": "2021-12-07T18:00:00Z",
+        "content": "With adaptive triggers, rear paddles, and more, starting at $199.99\r\nI adore the face buttons that dont show the signature shape indicators.\r\nScuf\r\nScuf has introduced the Reflex lineup of customizab… [+3021 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Ars Staff",
+        "title": "Today’s best deals: Nintendo Switch bundle, microSD cards, and more - Ars Technica",
+        "description": "Dealmaster also has deals on AirPods, streaming sticks, and tons of video games.",
+        "url": "https://arstechnica.com/staff/2021/12/todays-best-deals-nintendo-switch-bundle-walmart-more/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/dealmaster120721-1-760x380.jpg",
+        "publishedAt": "2021-12-07T17:42:33Z",
+        "content": "1 with 1 posters participating\r\nFolks, it's time for another Dealmaster. For today's deal roundup, we're spotlighting a new Nintendo Switch bundle from Walmart that packages the base version of the m… [+5167 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Annie Palmer",
+        "title": "Amazon Web Services outage causes issues for Disney+, Netflix, Coinbase - CNBC",
+        "description": "Disney+, Coinbase, Slack and other websites were taken down for some users as a result of the AWS outage.",
+        "url": "https://www.cnbc.com/2021/12/07/amazon-web-services-outage-causes-issues-at-disney-netflix-coinbase.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/104873708-RTX3KM7J-aws.jpg?v=1576759317",
+        "publishedAt": "2021-12-07T17:28:07Z",
+        "content": "Amazon's cloud-computing unit on Tuesday was hit with an outage that took down some websites and services.\r\nA notice on Amazon Web Services' status page said it was experiencing problems with certain… [+1125 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Meridith McGraw",
+        "title": "Meadows: Trump considered yanking Kavanaugh over ‘I like beer’ comments and apologetic tone - Politico",
+        "description": "The president’s one-time chief of staff also says he’s currently “finding secretaries and undersecretaries” to staff a future Trump administration.",
+        "url": "https://www.politico.com/news/2021/12/07/mark-meadows-book-trump-kavanaugh-523877",
+        "urlToImage": "https://static.politico.com/54/1d/889cae844a7a94ea8f9a348db413/200203-brett-kavanaugh-donald-trump-gty-773.jpg",
+        "publishedAt": "2021-12-07T17:09:23Z",
+        "content": "At the time he was having private reservations about Kavanaugh, Trump was publicly fighting for his confirmation, mocking Blasey Fords testimony at a rally and brushing off concerns from GOP lawmaker… [+4912 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Peter Bradshaw",
+        "title": "Being the Ricardos review – Nicole Kidman makes light comedy look like hard work in Lucille Ball biopic - The Guardian",
+        "description": "Aaron Sorkin’s ingeniously structured but weirdly mannered film offers an exhausting peek behind the scenes on I Love Lucy",
+        "url": "https://amp.theguardian.com/film/2021/dec/07/being-the-ricardos-review-nicole-kidman-makes-light-comedy-look-like-hard-work-in-lucille-ball-biopic",
+        "urlToImage": null,
+        "publishedAt": "2021-12-07T17:02:00Z",
+        "content": "FilmAaron Sorkins ingeniously structured but weirdly mannered film offers an exhausting peek behind the scenes on I Love Lucy\r\nAaron Sorkins strenuously unrelaxed comedy-drama is inspired by the lege… [+3049 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Deidre McPhillips and Jay Croft, CNN",
+        "title": "Michigan sets hospitalization record, leads nation in new coronavirus cases per capita - CNN",
+        "description": "Michigan continues to struggle amid the pandemic, setting a record this week for Covid-19 hospitalizations and leading the nation in per capita case rates, new data reveal.",
+        "url": "https://www.cnn.com/2021/12/07/health/michigan-covid-cases-hospitalizations/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211126105246-01-beaumont-hospital-michigan-file-super-tease.jpg",
+        "publishedAt": "2021-12-07T17:00:00Z",
+        "content": "(CNN)Michigan continues to struggle amid the pandemic, setting a record this week for Covid-19 hospitalizations and leading the nation in per capita case rates, new data reveal.\r\nThe state also recen… [+2923 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Entertainment Tonight"
+        },
+        "author": "Rachel McRady‍",
+        "title": "Nick Cannon's 5-Month-Old Son Zen Dies of Brain Cancer - Entertainment Tonight",
+        "description": "The 5-month-old took a turn for the worse at Thanksgiving.",
+        "url": "https://www.etonline.com/nick-cannons-5-month-old-son-zen-dies-of-brain-cancer-176204",
+        "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2021-12/Nick-Cannon%20Alyssa-Scott%20and%20Son%20Zen%202_CLIFTON%20PRESCOD.jpg?h=c673cd1c&itok=Dm7YhwHG",
+        "publishedAt": "2021-12-07T16:41:47Z",
+        "content": "Nick Cannon is mourning an unimaginable loss. The 41-year-old TV personality announced Tuesday on The Nick Cannon Show that his youngest son, 5-month-old Zen, died of brain cancer and a subsequent tu… [+2636 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Pascale Bonnefoy, Ernesto Londoño",
+        "title": "Chile Legalizes Same-Sex Marriage at Fraught Political Moment - The New York Times",
+        "description": "The legalization of same-sex marriage in Chile comes as the country grapples with sweeping demands for social change.",
+        "url": "https://www.nytimes.com/2021/12/07/world/americas/chile-gay-marriage.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/12/07/multimedia/07Chile-marriage1/07Chile-marriage1-facebookJumbo.jpg",
+        "publishedAt": "2021-12-07T16:41:32Z",
+        "content": "The political class had been deaf, blind and mute regarding a series of matters on which civil society and ordinary Chileans had advanced, he said.\r\nPresident Sebastián Piñera, a longtime opponent of… [+835 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Julia Musto",
+        "title": "COVID-19 spread more by men, loud talkers: study - Fox News",
+        "description": "Men and people who speak at louder volumes more easily spread COVID-19, according to researchers at Colorado State University (CSU).",
+        "url": "https://www.foxnews.com/health/covid-19-spread-more-men-loud-talkers-study",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/Male-singing-.jpg",
+        "publishedAt": "2021-12-07T16:31:30Z",
+        "content": "Men and people who speak at louder volumes more easily spread COVID-19, according to researchers at Colorado State University (CSU).\r\nIn a November study published in the journal Environmental Scienc… [+3442 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Mia Jankowicz",
+        "title": "Chris Cuomo hires lawyer, seeking $18 million from CNN: reports - Business Insider",
+        "description": "Chris Cuomo was fired from CNN midway through his contract. The New York Post reported he is lawyering up to seek $18 million he had yet to be paid.",
+        "url": "https://www.businessinsider.com/chris-cuomo-hires-lawyer-seeking-18-million-from-cnn-reports-2021-12",
+        "urlToImage": "https://i.insider.com/61af8a4406b6770018c46932?width=1200&format=jpeg",
+        "publishedAt": "2021-12-07T16:21:40Z",
+        "content": "Chris Cuomo hired a lawyer to sue CNN for $18 million, the remaining value of his former contract with the network, several reports said. \r\nOn Saturday night, CNN announced that it had fired Cuomo, i… [+2185 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Minyvonne Burke",
+        "title": "University of New Hampshire student reported missing after night out drinking is found dead - NBC News",
+        "description": "A University of New Hampshire student who was reported missing Saturday after a night out drinking with friends was found dead, authorities said.",
+        "url": "https://www.nbcnews.com/news/us-news/university-new-hampshire-student-reported-missing-night-drinking-found-rcna7872",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211207-Vincenzo-Lirosi-Template-se-1053a-3e83f9.jpg",
+        "publishedAt": "2021-12-07T16:20:00Z",
+        "content": "A University of New Hampshire student who was reported missing Saturday after a night out drinking with friends was found dead, authorities said. \r\nThe death is not considered suspicious, according t… [+1601 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Jenna Ryu, USA TODAY",
+        "title": "BTS announces they're taking a break: How the group is changing 'cutthroat' K-pop culture - USA TODAY",
+        "description": "BTS announced they are taking a break to rest and focus on themselves— a big step towards normalizing mental health in the cutthroat K-pop industry.",
+        "url": "https://www.usatoday.com/story/life/health-wellness/2021/12/07/bts-break-how-k-pop-can-change-after-past-star-suicides/8891630002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/22/USAT/f73ab42e-c8df-4e42-b22a-1b330b28b546-GTY_1354775741.jpg?auto=webp&crop=4972,2797,x1,y471&format=pjpg&width=1200",
+        "publishedAt": "2021-12-07T16:10:25Z",
+        "content": "After racking up Grammy nominations and numerous No.1 hits, BTS is taking a much-needed break.\r\n\"This period of rest will provide the members of BTS, who have tirelessly committed themselves to their… [+5898 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Chris Isidore, CNN Business",
+        "title": "Doug Parker, architect of merger trend that resulted in four major US airlines, is retiring - CNN",
+        "description": "Doug Parker will retire in March as CEO of American Airlines, the airline that he made the world's largest through a series of mergers that led to a massive consolidation of the US airline industry.",
+        "url": "https://www.cnn.com/2021/12/07/investing/american-airlines-ceo-retiring/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211207120337-doug-parker-051118-super-tease.jpg",
+        "publishedAt": "2021-12-07T16:07:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Ian Millhiser",
+        "title": "Supreme Court: The hideous legal obstacles facing DOJ’s voting rights suit in Texas - Vox",
+        "description": "The Biden administration makes a persuasive case that Texas violated the Voting Rights Act, but the Supreme Court hates the Voting Rights Act.",
+        "url": "https://www.vox.com/2021/12/7/22821274/texas-gerrymandering-justice-department-lawsuit-voting-rights-act-supreme-court-biden",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/5QMXI_mVzHrCrcLwB6ieqgQYAjU=/0x343:4825x2869/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23068479/857078104.jpg",
+        "publishedAt": "2021-12-07T16:00:00Z",
+        "content": "On Monday, the Justice Department filed a federal lawsuit alleging that Texass new state house and congressional district maps violate the Voting Rights Act, which forbids gerrymanders that have the … [+9765 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Rob Picheta, CNN",
+        "title": "'Chaotic' and slow British response left thousands of Afghans unable to flee the Taliban, whistleblower claims - CNN",
+        "description": "Thousands of desperate Afghans were unable to flee the Taliban following the fall of Kabul because the British government's response to the crisis was disorganized and slow, a whistleblower has claimed.",
+        "url": "https://www.cnn.com/2021/12/07/uk/uk-kabul-evacuation-foreign-office-whistleblower-intl-gbr/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210816092350-07-afghanistan-0816-kabul-super-tease.jpg",
+        "publishedAt": "2021-12-07T15:47:00Z",
+        "content": "London (CNN)Thousands of desperate Afghans were unable to flee the Taliban following the fall of Kabul because the British government's response to the crisis was disorganized and slow, a whistleblow… [+4894 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Caitlin Ostroff",
+        "title": "Stocks Open Higher; Oil Gains on Omicron Optimism - The Wall Street Journal",
+        "description": "GlaxoSmithKline and Vir say their antibody drug works against new Covid-19 variant",
+        "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-12-07-2021-11638866220",
+        "urlToImage": "https://images.wsj.net/im-447289/social",
+        "publishedAt": "2021-12-07T15:31:00Z",
+        "content": "The U.S. stock market started another day of strong gains, as the S&amp;P 500 and oil prices rose on hopes that Omicron would prove less damaging to the economy than feared.\r\nThe benchmark stock inde… [+209 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "Automaker Stellantis plans to generate $22.5 billion in new software revenue by 2030 - CNBC",
+        "description": "Driving the growth will be an increase in the automaker's connected vehicles from 12 million today to 34 million by then, according to Stellantis.",
+        "url": "https://www.cnbc.com/2021/12/07/stellantis-plans-to-generate-22point5-billion-in-new-software-revenue-by-2030.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949444-1632925040371JP022_019GCt8u7s95snnurfcbtggd2fr32ra.jpg?v=1632925333",
+        "publishedAt": "2021-12-07T15:24:30Z",
+        "content": "DETROIT Automaker Stellantis plans to generate about $22.5 billion (20 billion euros) in incremental annual revenue from software services and subscriptions by 2030, the company announced Tuesday.\r\nD… [+3209 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Associated Press",
+        "title": "Meet NASA's newest class of astronauts who will train for future moon missions - New York Post",
+        "description": "The space agency introduced the six men and four women during a ceremony in Houston, home to Mission Control and the astronaut corps.",
+        "url": "https://nypost.com/2021/12/07/nasas-10-new-astronauts-pilots-doctor-physicist-cyclist/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/AP21340650163078.jpg?quality=90&strip=all&w=1024",
+        "publishedAt": "2021-12-07T15:16:00Z",
+        "content": "CAPE CANAVERAL, Fla. NASA selected 10 new astronauts Monday, half of them military pilots, as it looks ahead to the moon and Mars.\r\nThe space agency introduced the six men and four women during a cer… [+1430 chars]"
+      }
+    ]
+  }
